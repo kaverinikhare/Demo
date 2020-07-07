@@ -7,6 +7,8 @@ public class HomeTest {
 	public void hometest()
 	{
 		System.out.println("Demo 2 test");
+		System.out.println("Demo 2 test1");
+		
 	}
 
 

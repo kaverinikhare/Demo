@@ -4,6 +4,7 @@ public class Home {
 	public void home()
 	{
 		System.out.println("Demo 2 page");
+		System.out.println("Demo 2 Edited");
 	}
 
 }

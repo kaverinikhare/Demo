@@ -7,5 +7,6 @@ public class logintest {
 public void login()
 {
 	System.out.println("Login test");
+	System.out.println("Login test checkout to deals page branch");
 }
 }
